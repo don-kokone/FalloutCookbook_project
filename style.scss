@@ -1,0 +1,24 @@
+//01.Settings
+@import "./Assets/SCSS/01.Settings/_settings-global";
+@import "./Assets/SCSS/01.Settings/_settings-fonts";
+@import "./Assets/SCSS/01.Settings/_settings-colors";
+
+//02.Tools
+
+@import "./Assets/SCSS/02.Tools/_tools-mixins";
+
+//04.Elements
+@import "./Assets/SCSS/04.Elements/_elements-main";
+@import "./Assets/SCSS/04.Elements/_elements-header";
+@import "./Assets/SCSS/04.Elements/_elements-paragraphs";
+@import "./Assets/SCSS/04.Elements/_elements-images";
+@import "./Assets/SCSS/04.Elements/_elements-lists";
+@import "./Assets/SCSS/04.Elements/_elements-links";
+@import "./Assets/SCSS/04.Elements/_elements-headings";
+@import "./Assets/SCSS/04.Elements/_elements-articles";
+@import "./Assets/SCSS/04.Elements/_elements-video";
+
+//06. Components
+@import "./Assets/SCSS/06.Components/_components-navigation";
+@import "./Assets/SCSS/06.Components/_components-logo";
+@import "./Assets/SCSS/06.Components/_components-menu";

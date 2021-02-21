@@ -1,0 +1,14 @@
+main {
+  display: grid;
+  grid-template-columns: 90vw;
+  grid-template-rows: auto;
+  align-items: center;
+  justify-content: center;
+  background-image: url("./Assets/Images/main-background.jpg");
+  margin: 0 auto;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-left: 10px solid $color-brown;
+  border-right: 10px solid $color-brown;
+}

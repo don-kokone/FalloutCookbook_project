@@ -1,0 +1,15 @@
+.c-main-navigation {
+
+
+
+  .c-main-navigation__list {
+    display: flex;
+    flex-direction: row wrap;
+    justify-content: space-between;
+    align-items: center;
+
+    li {
+      margin-left: 10px;
+    }
+  }
+}

@@ -1,0 +1,13 @@
+a{
+  text-decoration: none;
+  font-size: 3rem;
+  text-transform: capitalize;
+
+  &:hover{
+    color: inherit;
+  }
+
+  &:visited{
+    color: inherit;
+  }
+}
