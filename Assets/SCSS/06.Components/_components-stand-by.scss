@@ -1,0 +1,17 @@
+.c-stand-by-section {
+  height: 90vh;
+  position: relative;
+  text-align: center;
+
+h1{
+  @include text-box;
+
+}
+
+  img {
+    margin-top: 50px;
+    position: absolute;
+    top: 20vh;
+    left: 0;
+  }
+}

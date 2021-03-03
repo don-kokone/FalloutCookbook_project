@@ -2,6 +2,7 @@
 @import "./Assets/SCSS/01.Settings/_settings-global";
 @import "./Assets/SCSS/01.Settings/_settings-fonts";
 @import "./Assets/SCSS/01.Settings/_settings-colors";
+@import "./Assets/SCSS/01.Settings/_settings-variables";
 
 //02.Tools
 
@@ -17,8 +18,14 @@
 @import "./Assets/SCSS/04.Elements/_elements-headings";
 @import "./Assets/SCSS/04.Elements/_elements-articles";
 @import "./Assets/SCSS/04.Elements/_elements-video";
+@import "./Assets/SCSS/04.Elements/_elements-span";
 
 //06. Components
 @import "./Assets/SCSS/06.Components/_components-navigation";
 @import "./Assets/SCSS/06.Components/_components-logo";
 @import "./Assets/SCSS/06.Components/_components-menu";
+@import "./Assets/SCSS/06.Components/_components-header-section";
+@import "./Assets/SCSS/06.Components/_components-stand-by";
+
+//07.Utilities
+@import "./Assets/SCSS/07.Utilities/_utilities-borders";

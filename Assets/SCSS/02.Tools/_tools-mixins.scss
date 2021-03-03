@@ -1,7 +1,15 @@
 @mixin base-width {
-max-width: 90vw;
+  max-width: 90vw;
 }
-@mixin base-height {
-
-
+@mixin standart-flex {
+display: flex;
+justify-content: center;
+align-items: center;
+}
+@mixin text-box {
+  margin: 10% 0;
+  font-size: $standard-heading-size + 1rem;
+  line-height: 1.5;
+  text-align: center;
+  letter-spacing: 5px;
 }

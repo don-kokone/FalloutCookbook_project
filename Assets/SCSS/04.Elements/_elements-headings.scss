@@ -4,9 +4,13 @@ h1, h2, h3, h4{
 }
 
 h1{
-  font-size: 3rem;
+  font-size: $standard-heading-size;
 }
 
 h2{
-font-size: 2rem;
+font-size: $smaller-heading-size;
+}
+
+h3{
+  font-size: $small-heading-size;
 }
